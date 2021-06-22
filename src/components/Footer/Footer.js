@@ -22,9 +22,6 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>No amount of knowledge is enough knowledge, never stop learning.</Slogan>
-          <Slogan>
-              © Copyright 2021 | Designed & Adapted by <a target="_blank" href="https://github.com/joelnbl">@Joelnbl</a>
-          </Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://google.com">
