@@ -2,7 +2,6 @@ import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
-import { SectionText } from '../../styles/GlobalComponents';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
 const Footer = () => {
@@ -23,9 +22,9 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>No amount of knowledge is enough knowledge, never stop learning.</Slogan>
-          <SectionText>
+          <Slogan>
               © Copyright 2021 | Designed & Adapted by <a target="_blank" href="https://github.com/joelnbl">@Joelnbl</a>
-          </SectionText>
+          </Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://google.com">
