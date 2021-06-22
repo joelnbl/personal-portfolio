@@ -20,7 +20,15 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
+            Next.js
+            <br />
             React.js
+            <br />
+            Tailwind.css
+            <br />
+            Bootstrap
+            <br />
+            Sass
           </ListParagraph>
         </ListContainer>
       </ListItem>
