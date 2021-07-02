@@ -5,8 +5,8 @@ export const projects = [
       "Using React.js, Next.js, Tailwind.css. The Web page is called Hulu Clone an Web App based on streaming.",
     image: "/images/1.png",
     tags: ["NextJS", "ReactJS", "Tailwind CSS"],
-    source: "https://github.com/joelnbl/Hulu-2",
-    visit: "https://hulu-2-smoky.vercel.app/",
+    source: "https://hulu-2-smoky.vercel.app/",
+    visit: "https://github.com/joelnbl/Hulu-2",
     id: 0,
   },
   {
