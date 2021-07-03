@@ -1,5 +1,5 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiFirebase, DiReact, DiZend, DiAndroid } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -35,11 +35,12 @@ const Technologies = () => (
             <br />
             React.js
             <br />
-            Tailwind.css
+            Angular.js
             <br />
-            Bootstrap
+            Vue.js
             <br />
-            Sass
+            Svelte.js
+            <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -51,10 +52,23 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
+            Python <br />
             Node <br />
             Nest.js <br />
             PostgreSQL <br />
             MySQl <br />
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiAndroid size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Mobile</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            React Native <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
