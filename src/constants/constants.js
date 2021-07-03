@@ -15,7 +15,7 @@ export const projects = [
       "Using React.js to make an amazing app to track your expenses, one of the best funcionality of this app is that you can filter per month and gets a best experience of it.",
     image: "/images/2.png",
     tags: ["ReactJS"],
-    source: "https://github.com/joelnbl/Expense-Tracker",
+    visit: "https://github.com/joelnbl/Expense-Tracker",
     id: 1,
   },
 ];
