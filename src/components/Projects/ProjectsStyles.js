@@ -26,9 +26,9 @@ export const BlogCard = styled.div`
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   text-align: center;
   width: 400px;
-  padding: 20px;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
+    padding: 20px;
   }
 `;
 export const TitleContent = styled.div`
